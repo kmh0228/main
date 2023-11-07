@@ -1,0 +1,1 @@
+System.register(["./index-legacy-bb251199.js"],(function(e,t){"use strict";var n,r,s;return{setters:[e=>{n=e._,r=e.o,s=e.c}],execute:function(){const t={class:"about"};e("default",n({},[["render",function(e,n){return r(),s("div",t,"a")}]]))}}}));
